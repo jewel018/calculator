@@ -1,10 +1,10 @@
 # 🧮 Modern Calculator
 
-A clean, responsive calculator web app built with pure **HTML**, **CSS**, and **vanilla JavaScript** — no frameworks, no dependencies.
+A clean, responsive calculator web app built with pure HTML, CSS, and vanilla JavaScript — no frameworks, no dependencies.
 
-![Calculator Preview](./preview.png)
-> *Screenshot coming soon — open `index.html` in your browser to see it live.*
+🚀 **Live Demo:** [Try the Calculator](https://dreamy-centaur-0cd679.netlify.app/)
 
+[Calculator Preview](./preview.png)
 ---
 
 ## ✨ Features
