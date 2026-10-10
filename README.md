@@ -4,7 +4,6 @@ A clean, responsive calculator web app built with pure HTML, CSS, and vanilla Ja
 
 🚀 **Live Demo:** [Try the Calculator](https://dreamy-centaur-0cd679.netlify.app/)
 
-[Calculator Preview](./preview.png)
 ---
 
 ## ✨ Features
